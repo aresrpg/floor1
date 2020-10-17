@@ -7663,11 +7663,12 @@
     }
   },
   "spellbook": {
-    "name": "SpellBook",
+    "name": "Spell§3Book",
     "enchants": {
       "LURE": 5
     },
-    "item": "book"
+    "item": "book",
+    "type": "spellbook"
   },
   "spell_scroll_life_steal": {
     "name": "Parchemin de sort : Vol de vie",
