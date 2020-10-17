@@ -29,13 +29,8 @@
       "strength": -1
     },
     "description": [
-      "§8Un peu dur mais elle reste",
-      "§8comfortable.",
-      "§a",
-      "§7 +§22§7 d'§2Agilité",
-      "§7 +§91§7 d'§9Esquive",
-      "§c -1 de Défense",
-      "§c -1 de Force"
+      "Un peu dur mais elle reste",
+      "comfortable."
     ]
   },
   "straw_hat": {
@@ -381,9 +376,7 @@
       "armor_penetration": 50
     },
     "description": [
-      "§8Bénite par le Jesus Coréen",
-      "§a",
-      "§7 +§150§7 de§1 Pénétration d'armure"
+      "Bénite par le Jesus Coréen"
     ],
     "damage": [
       15,
@@ -423,11 +416,9 @@
       "armor_penetration": 50
     },
     "description": [
-      "§8Le plagiat c'est la vie !",
-      "§8Mieux vaut plagier qu'être tué !",
-      "§8Servez vous de cette hache autant qu'il le faudrat",
-      "§a",
-      "§7 +§150§7 de§1 Pénétration d'armure"
+      "Le plagiat c'est la vie !",
+      "Mieux vaut plagier qu'être tué !",
+      "Servez vous de cette hache autant qu'il le faudrat"
     ],
     "damage": [
       28,
@@ -621,8 +612,7 @@
     "item": "iron_axe",
     "type": "weapon",
     "description": [
-      "§8Pierre ? présent.",
-      "§a"
+      "Pierre ? présent."
     ],
     "damage": [
       6,
@@ -852,12 +842,8 @@
       "armor_penetration": 10
     },
     "description": [
-      "§8Sculté et poli par les Rois",
-      "§8des plaines Dagde.",
-      "§7Ce bâton inflige des",
-      "§7dégâts d'§8Ombre",
-      "§a",
-      "§7 +§110§7 de§1 Pénétration d'armure"
+      "Sculté et poli par les Rois",
+      "des plaines Dagde."
     ],
     "damage": [
       12,
@@ -1643,8 +1629,7 @@
     "item": "diamond_axe",
     "type": "weapon",
     "description": [
-      "§8Oh Whenywaush",
-      "§a"
+      "Oh Whenywaush"
     ],
     "damage": [
       175,
@@ -1695,8 +1680,7 @@
     "item": "golden_axe",
     "type": "weapon",
     "description": [
-      "§8Dans les étoiles",
-      "§a"
+      "Dans les étoiles"
     ],
     "damage": [
       215,
@@ -2053,9 +2037,7 @@
       "armor_penetration": 150
     },
     "description": [
-      "§8Veritable épée d'Arya Stark",
-      "§a",
-      "§7 +§1150§7 de§1 Pénétration d'armure"
+      "Veritable épée d'Arya Stark"
     ],
     "damage": [
       100,
@@ -2102,8 +2084,7 @@
     "item": "stone_sword",
     "type": "weapon",
     "description": [
-      "§8Le Chouchou de Percedal",
-      "§a"
+      "Le Chouchou de Percedal"
     ],
     "damage": [
       225,
@@ -2174,8 +2155,7 @@
     "item": "diamond_sword",
     "type": "weapon",
     "description": [
-      "§8Noir tres noir.",
-      "§a"
+      "Noir tres noir."
     ],
     "damage": [
       170,
@@ -2250,10 +2230,7 @@
     "item": "stick",
     "type": "weapon",
     "description": [
-      "§8Ooh happy day",
-      "§7Ce bâton inflige des",
-      "§7dégâts d'§5Arcane",
-      "§a"
+      "Ooh happy day"
     ],
     "damage": [
       40,
@@ -2391,10 +2368,7 @@
     "item": "stick",
     "type": "weapon",
     "description": [
-      "§8Ce soir je sens que je serait livré..",
-      "§7Ce bâton inflige des",
-      "§7dégâts de §fFroid",
-      "§a"
+      "Ce soir je sens que je serait livré.."
     ],
     "damage": [
       60,
@@ -2470,12 +2444,7 @@
       "dodge": 10
     },
     "description": [
-      "§8faut la réalisey bro",
-      "§a",
-      "§7 +§d45§7 de§d Vitalité",
-      "§7 +§310§7 de§3 Défense",
-      "§7 +§2120§7 d'§2Agilité",
-      "§7 +§910§7 d'§9Esquive"
+      "faut la réalisey bro"
     ]
   },
   "hallay_helmet": {
@@ -2503,14 +2472,7 @@
       "speed": 10
     },
     "description": [
-      "§8bentley mauve",
-      "§a",
-      "§7 +§d40§7 de§d Vitalité",
-      "§7 +§335§7 de§3 Défense",
-      "§7 +§e50§7 de§e Force",
-      "§7 +§440§7 d'§4Intelligence",
-      "§7 +§245§7 d'§2Agilité",
-      "§7 +§b10§7 de§b Vitesse"
+      "bentley mauve"
     ]
   },
   "igloo_mask": {
@@ -2652,11 +2614,7 @@
       "agility": 55
     },
     "description": [
-      "§8gné",
-      "§a",
-      "§7 +§d40§7 de§d Vitalité",
-      "§7 +§455§7 d'§4Intelligence",
-      "§7 +§255§7 d'§2Agilité"
+      "gné"
     ]
   },
   "bracelet": {
@@ -2709,12 +2667,7 @@
       "dodge": 8
     },
     "description": [
-      "§8On éy posey",
-      "§a",
-      "§7 +§d30§7 de§d Vitalité",
-      "§7 +§325§7 de§3 Défense",
-      "§7 +§460§7 d'§4Intelligence",
-      "§7 +§98§7 d'§9Esquive"
+      "On éy posey"
     ]
   },
   "bracelet_without_clip": {
@@ -2862,12 +2815,7 @@
       "dodge": 5
     },
     "description": [
-      "§8Beau comme un Zardelf",
-      "§a",
-      "§7 +§d50§7 de§d Vitalité",
-      "§7 +§330§7 de§3 Défense",
-      "§7 +§470§7 d'§4Intelligence",
-      "§7 +§95§7 d'§9Esquive"
+      "Beau comme un Zardelf"
     ]
   },
   "eagle_boots": {
@@ -2894,14 +2842,7 @@
       "intelligence": -20
     },
     "description": [
-      "§8Pak pak",
-      "§a",
-      "§7 +§d90§7 de§d Vitalité",
-      "§7 +§230§7 d'§2Agilité",
-      "§7 +§910§7 d'§9Esquive",
-      "§7 +§b5§7 de§b Vitesse",
-      "§c -20 de Force",
-      "§c -20 d'Intelligence"
+      "Pak pak"
     ]
   },
   "drop": {
@@ -2916,12 +2857,7 @@
       "agility": 30
     },
     "description": [
-      "§8A i e k i",
-      "§a",
-      "§7 +§330§7 de§3 Défense",
-      "§7 +§e30§7 de§e Force",
-      "§7 +§430§7 d'§4Intelligence",
-      "§7 +§230§7 d'§2Agilité"
+      "A i e k i"
     ]
   },
   "blue_piou_boot": {
@@ -2988,11 +2924,7 @@
       "speed": 13
     },
     "description": [
-      "§8Fabriquée par le grand Ballcutter",
-      "§a",
-      "§7 +§330§7 de§3 Défense",
-      "§7 +§260§7 d'§2Agilité",
-      "§7 +§b13§7 de§b Vitesse"
+      "Fabriquée par le grand Ballcutter"
     ]
   },
   "ballerinas_by_silvos": {
@@ -3124,16 +3056,8 @@
       "speed": 10
     },
     "description": [
-      "§8Pour être aussi musclé que le",
-      "§8barbare MrSceat en personne !",
-      "§a",
-      "§7 +§d65§7 de§d Vitalité",
-      "§7 +§330§7 de§3 Défense",
-      "§7 +§e15§7 de§e Force",
-      "§7 +§415§7 d'§4Intelligence",
-      "§7 +§215§7 d'§2Agilité",
-      "§7 +§95§7 d'§9Esquive",
-      "§7 +§b10§7 de§b Vitesse"
+      "Pour être aussi musclé que le",
+      "barbare MrSceat en personne !"
     ]
   },
   "gautiey_belt": {
@@ -3150,14 +3074,7 @@
       "dodge": 5
     },
     "description": [
-      "§8Sort le Gautiey volley",
-      "§a",
-      "§7 +§d30§7 de§d Vitalité",
-      "§7 +§320§7 de§3 Défense",
-      "§7 +§e15§7 de§e Force",
-      "§7 +§415§7 d'§4Intelligence",
-      "§7 +§220§7 d'§2Agilité",
-      "§7 +§95§7 d'§9Esquive"
+      "Sort le Gautiey volley"
     ]
   },
   "shoulder_girdle": {
@@ -3225,15 +3142,7 @@
       "intelligence": -50
     },
     "description": [
-      "§8gné",
-      "§a",
-      "§7 +§d50§7 de§d Vitalité",
-      "§7 +§330§7 de§3 Défense",
-      "§7 +§280§7 d'§2Agilité",
-      "§7 +§98§7 d'§9Esquive",
-      "§7 +§b8§7 de§b Vitesse",
-      "§c -50 de Force",
-      "§c -50 d'Intelligence"
+      "gné"
     ]
   },
   "poke_belt": {
@@ -3249,13 +3158,7 @@
       "intelligence": -10
     },
     "description": [
-      "§8aimaisaine",
-      "§a",
-      "§7 +§d40§7 de§d Vitalité",
-      "§7 +§325§7 de§3 Défense",
-      "§7 +§260§7 d'§2Agilité",
-      "§c -20 de Force",
-      "§c -10 d'Intelligence"
+      "aimaisaine"
     ]
   },
   "judokay_belt": {
@@ -3282,11 +3185,7 @@
       "vitality": -20
     },
     "description": [
-      "§8Shiina Sey",
-      "§a",
-      "§7 +§340§7 de§3 Défense",
-      "§7 +§e50§7 de§e Force",
-      "§c -20 de Vitalité"
+      "Shiina Sey"
     ]
   },
   "zodiac_belt": {
@@ -3328,11 +3227,7 @@
       "dodge": 13
     },
     "description": [
-      "§8Pour les libertins",
-      "§a",
-      "§7 +§d55§7 de§d Vitalité",
-      "§7 +§340§7 de§3 Défense",
-      "§7 +§913§7 d'§9Esquive"
+      "Pour les libertins"
     ]
   },
   "goblin_amulet": {
@@ -3446,12 +3341,7 @@
       "agility": 5
     },
     "description": [
-      "§8Nan on va à droite !",
-      "§a",
-      "§7 +§d20§7 de§d Vitalité",
-      "§7 +§320§7 de§3 Défense",
-      "§7 +§e50§7 de§e Force",
-      "§7 +§25§7 d'§2Agilité"
+      "Nan on va à droite !"
     ]
   },
   "talisman_of_the_white_magician": {
@@ -3606,8 +3496,7 @@
     "item": "iron_shovel",
     "type": "weapon",
     "description": [
-      "§8Tentacule du Kraken",
-      "§a"
+      "Tentacule du Kraken"
     ],
     "damage": [
       204,
@@ -4320,8 +4209,7 @@
     "item": "bow",
     "type": "weapon",
     "description": [
-      "§8Arc de Collection",
-      "§a"
+      "Arc de Collection"
     ],
     "damage": [
       50,
@@ -4334,8 +4222,7 @@
     "item": "bow",
     "type": "weapon",
     "description": [
-      "§8Arc de Collection",
-      "§a"
+      "Arc de Collection"
     ],
     "damage": [
       61,
@@ -4351,9 +4238,7 @@
       "armor_penetration": 150
     },
     "description": [
-      "§8l'Arc du bannissement",
-      "§a",
-      "§7 +§1150§7 de§1 Pénétration d'armure"
+      "l'Arc du bannissement"
     ],
     "damage": [
       55,
@@ -4392,9 +4277,8 @@
     "item": "bow",
     "type": "weapon",
     "description": [
-      "§8Cet Arc est beaucoup trop abimé",
-      "§8pour encore servir.. rt",
-      "§a"
+      "Cet Arc est beaucoup trop abimé",
+      "pour encore servir.. rt"
     ],
     "damage": [
       5,
@@ -4446,9 +4330,7 @@
       "armor_penetration": 200
     },
     "description": [
-      "§8Bentley",
-      "§a",
-      "§7 +§1200§7 de§1 Pénétration d'armure"
+      "Bentley"
     ],
     "damage": [
       70,
@@ -4483,10 +4365,8 @@
       "armor_penetration": 300
     },
     "description": [
-      "§8Un seul coup peut venir à bout",
-      "§8de tout vos ennemis",
-      "§a",
-      "§7 +§1300§7 de§1 Pénétration d'armure"
+      "Un seul coup peut venir à bout",
+      "de tout vos ennemis"
     ],
     "damage": [
       1,
@@ -4503,9 +4383,7 @@
       "armor_penetration": 200
     },
     "description": [
-      "§8Everybody do the flop !",
-      "§a",
-      "§7 +§1200§7 de§1 Pénétration d'armure"
+      "Everybody do the flop !"
     ],
     "damage": [
       50,
@@ -4522,10 +4400,8 @@
       "armor_penetration": 150
     },
     "description": [
-      "§8Cette hache fut forgée par",
-      "§8Flambi Leupaine en personne !",
-      "§a",
-      "§7 +§1150§7 de§1 Pénétration d'armure"
+      "Cette hache fut forgée par",
+      "Flambi Leupaine en personne !"
     ],
     "damage": [
       80,
@@ -4558,10 +4434,7 @@
     "item": "stick",
     "type": "weapon",
     "description": [
-      "§8James !",
-      "§7Ce bâton inflige des",
-      "§7dégâts d'§5Arcane",
-      "§a"
+      "James !"
     ],
     "damage": [
       1,
@@ -4598,8 +4471,7 @@
     "item": "stick",
     "type": "weapon",
     "description": [
-      "§8Le respect a disparu",
-      "§a"
+      "Le respect a disparu"
     ],
     "damage": [
       80,
@@ -4627,11 +4499,7 @@
       "armor_penetration": 50
     },
     "description": [
-      "§8Très utile pour les premieres fois !",
-      "§7Ce bâton inflige des",
-      "§7dégâts de §cFeu",
-      "§a",
-      "§7 +§150§7 de§1 Pénétration d'armure"
+      "Très utile pour les premieres fois !"
     ],
     "damage": [
       65,
@@ -4660,10 +4528,7 @@
     "item": "stick",
     "type": "weapon",
     "description": [
-      "§8Frapez avec la puissance divine",
-      "§7Ce bâton inflige des",
-      "§7dégâts d'§eEther",
-      "§a"
+      "Frapez avec la puissance divine"
     ],
     "damage": [
       68,
@@ -4763,9 +4628,7 @@
       "armor_penetration": 80
     },
     "description": [
-      "§8Tu veut la drogue hein ?",
-      "§a",
-      "§7 +§180§7 de§1 Pénétration d'armure"
+      "Tu veut la drogue hein ?"
     ],
     "damage": [
       1,
@@ -4820,9 +4683,7 @@
       "armor_penetration": 37
     },
     "description": [
-      "§8Anciennement appelée Hache coupe-bourse",
-      "§a",
-      "§7 +§137§7 de§1 Pénétration d'armure"
+      "Anciennement appelée Hache coupe-bourse"
     ],
     "damage": [
       58,
@@ -4913,12 +4774,8 @@
       "armor_penetration": 50
     },
     "description": [
-      "§8Ce bâton vient de la compagnie",
-      "§8des indes !",
-      "§7Ce bâton inflige des",
-      "§7dégâts d'§9Eau",
-      "§a",
-      "§7 +§150§7 de§1 Pénétration d'armure"
+      "Ce bâton vient de la compagnie",
+      "des indes !"
     ],
     "damage": [
       10,
@@ -5102,14 +4959,8 @@
       "strength": -5
     },
     "description": [
-      "§8Fabriquée à partir de coraux",
-      "§8de la mer noiwe",
-      "§a",
-      "§7 +§37§7 de§3 Défense",
-      "§7 +§47§7 d'§4Intelligence",
-      "§7 +§29§7 d'§2Agilité",
-      "§7 +§b3§7 de§b Vitesse",
-      "§c -5 de Force"
+      "Fabriquée à partir de coraux",
+      "de la mer noiwe"
     ]
   },
   "shaman_belt": {
@@ -5188,10 +5039,8 @@
       "protection": 1
     },
     "description": [
-      "§8Cette ceinture est parfaite",
-      "§8pour tenir son pagne !",
-      "§a",
-      "§7 +§31§7 de§3 Défense"
+      "Cette ceinture est parfaite",
+      "pour tenir son pagne !"
     ]
   },
   "poulature": {
@@ -5252,13 +5101,8 @@
       "agility": -5
     },
     "description": [
-      "§8Cette ceinture en soie d'Arakne",
-      "§8est tres résistante !",
-      "§a",
-      "§7 +§d2§7 de§d Vitalité",
-      "§7 +§e3§7 de§e Force",
-      "§c -5 d'Intelligence",
-      "§c -5 d'Agilité"
+      "Cette ceinture en soie d'Arakne",
+      "est tres résistante !"
     ]
   },
   "small_belt_of_strength": {
@@ -5332,12 +5176,8 @@
       "speed": 2
     },
     "description": [
-      "§8Cette ceinture vous tient",
-      "§8bien au chaud.",
-      "§a",
-      "§7 +§24§7 d'§2Agilité",
-      "§7 +§91§7 d'§9Esquive",
-      "§7 +§b2§7 de§b Vitesse"
+      "Cette ceinture vous tient",
+      "bien au chaud."
     ]
   },
   "pibature": {
@@ -5391,16 +5231,9 @@
       "intelligence": -70
     },
     "description": [
-      "§8Cette ceinture appartenait",
-      "§8au grand Siphzuh0, elle fut offerte",
-      "§8au jeune MiraStealer pour ces 5ans",
-      "§a",
-      "§7 +§d10§7 de§d Vitalité",
-      "§7 +§32§7 de§3 Défense",
-      "§7 +§e10§7 de§e Force",
-      "§7 +§23§7 d'§2Agilité",
-      "§7 +§95§7 d'§9Esquive",
-      "§c -70 d'Intelligence"
+      "Cette ceinture appartenait",
+      "au grand Siphzuh0, elle fut offerte",
+      "au jeune MiraStealer pour ces 5ans"
     ]
   },
   "geishanneau": {
@@ -5467,15 +5300,8 @@
       "intelligence": -12
     },
     "description": [
-      "§8Cet anneau est plus connu",
-      "§8sous le nom de Anneau de Couardise",
-      "§a",
-      "§7 +§d10§7 de§d Vitalité",
-      "§7 +§33§7 de§3 Défense",
-      "§7 +§e10§7 de§e Force",
-      "§7 +§218§7 d'§2Agilité",
-      "§7 +§b1§7 de§b Vitesse",
-      "§c -12 d'Intelligence"
+      "Cet anneau est plus connu",
+      "sous le nom de Anneau de Couardise"
     ]
   },
   "serana_ring": {
@@ -5842,12 +5668,8 @@
       "strength": 6
     },
     "description": [
-      "§8Un nombre incalculable de dents de phacochére",
-      "§8ont été utilisée pour faire ce pantalon",
-      "§a",
-      "§7 +§d3§7 de§d Vitalité",
-      "§7 +§31§7 de§3 Défense",
-      "§7 +§e6§7 de§e Force"
+      "Un nombre incalculable de dents de phacochére",
+      "ont été utilisée pour faire ce pantalon"
     ]
   },
   "elven_peasant_pants": {
@@ -7034,12 +6856,7 @@
       "speed": 4
     },
     "description": [
-      "§8Samouraï des temps modernes",
-      "§a",
-      "§7 +§d10§7 de§d Vitalité",
-      "§7 +§412§7 d'§4Intelligence",
-      "§7 +§215§7 d'§2Agilité",
-      "§7 +§b4§7 de§b Vitesse"
+      "Samouraï des temps modernes"
     ]
   },
   "creole_pants": {
@@ -7091,13 +6908,8 @@
       "speed": 10
     },
     "description": [
-      "§8On raconte que cette jupe peut vous",
-      "§8faire rêver bleu..",
-      "§a",
-      "§7 +§d40§7 de§d Vitalité",
-      "§7 +§310§7 de§3 Défense",
-      "§7 +§420§7 d'§4Intelligence",
-      "§7 +§b10§7 de§b Vitesse"
+      "On raconte que cette jupe peut vous",
+      "faire rêver bleu.."
     ]
   },
   "kings_trousers": {
@@ -7334,14 +7146,7 @@
       "intelligence": -20
     },
     "description": [
-      "§8L'armure des Rois du Gontor",
-      "§a",
-      "§7 +§d30§7 de§d Vitalité",
-      "§7 +§310§7 de§3 Défense",
-      "§7 +§e10§7 de§e Force",
-      "§7 +§226§7 d'§2Agilité",
-      "§7 +§95§7 d'§9Esquive",
-      "§c -20 d'Intelligence"
+      "L'armure des Rois du Gontor"
     ]
   },
   "dwemer_armor": {
@@ -7381,12 +7186,8 @@
       "speed": 2
     },
     "description": [
-      "§8Cette armure est faîte avec de",
-      "§8l'essence de crane tourmenté",
-      "§a",
-      "§7 +§d8§7 de§d Vitalité",
-      "§7 +§415§7 d'§4Intelligence",
-      "§7 +§b2§7 de§b Vitesse"
+      "Cette armure est faîte avec de",
+      "l'essence de crane tourmenté"
     ]
   },
   "ancient_nordic_armor": {
@@ -7503,15 +7304,9 @@
       "intelligence": -5
     },
     "description": [
-      "§8Vous deviendrez Intouchable !",
-      "§8Attention tout de même de ne pas",
-      "§8vous évanouir..",
-      "§a",
-      "§7 +§d18§7 de§d Vitalité",
-      "§7 +§32§7 de§3 Défense",
-      "§7 +§e15§7 de§e Force",
-      "§7 +§210§7 d'§2Agilité",
-      "§c -5 d'Intelligence"
+      "Vous deviendrez Intouchable !",
+      "Attention tout de même de ne pas",
+      "vous évanouir.."
     ]
   },
   "attila_skirt": {
@@ -7528,15 +7323,8 @@
       "strength": -10
     },
     "description": [
-      "§8Kaamelott kaamelott, il va rester un tas",
-      "§8de caillou !",
-      "§a",
-      "§7 +§35§7 de§3 Défense",
-      "§7 +§415§7 d'§4Intelligence",
-      "§7 +§213§7 d'§2Agilité",
-      "§7 +§93§7 d'§9Esquive",
-      "§7 +§b5§7 de§b Vitesse",
-      "§c -10 de Force"
+      "Kaamelott kaamelott, il va rester un tas",
+      "de caillou !"
     ]
   },
   "silver_pants": {
@@ -7735,13 +7523,7 @@
       "speed": 3
     },
     "description": [
-      "§8Diggle diggle diggle",
-      "§a",
-      "§7 +§d25§7 de§d Vitalité",
-      "§7 +§310§7 de§3 Défense",
-      "§7 +§e15§7 de§e Force",
-      "§7 +§220§7 d'§2Agilité",
-      "§7 +§b3§7 de§b Vitesse"
+      "Diggle diggle diggle"
     ]
   },
   "ring_of_the_facochere": {
@@ -8224,12 +8006,9 @@
       "speed": 2
     },
     "description": [
-      "§8Cette amulette été forgée",
-      "§8dans un puissant concentré",
-      "§8de chance.",
-      "§a",
-      "§7 +§d20§7 de§d Vitalité",
-      "§7 +§b2§7 de§b Vitesse"
+      "Cette amulette été forgée",
+      "dans un puissant concentré",
+      "de chance."
     ]
   },
   "salted_talisman": {
@@ -8246,15 +8025,8 @@
       "speed": -5
     },
     "description": [
-      "§8Tout droit importée des contrées",
-      "§8de Wynn.",
-      "§a",
-      "§7 +§d18§7 de§d Vitalité",
-      "§7 +§32§7 de§3 Défense",
-      "§7 +§e10§7 de§e Force",
-      "§7 +§410§7 d'§4Intelligence",
-      "§7 +§210§7 d'§2Agilité",
-      "§c -5 de Vitesse"
+      "Tout droit importée des contrées",
+      "de Wynn."
     ]
   },
   "arakne_pendant": {
@@ -8308,13 +8080,8 @@
       "agility": 10
     },
     "description": [
-      "§8Ce collier vous donne l'air",
-      "§8balloné, mais plus puissant !",
-      "§a",
-      "§7 +§d20§7 de§d Vitalité",
-      "§7 +§e5§7 de§e Force",
-      "§7 +§42§7 d'§4Intelligence",
-      "§7 +§210§7 d'§2Agilité"
+      "Ce collier vous donne l'air",
+      "balloné, mais plus puissant !"
     ]
   },
   "koliet_aclou": {
@@ -8343,15 +8110,8 @@
       "intelligence": -5
     },
     "description": [
-      "§8Le bijou parfait pour les",
-      "§8tirs de longue distance !",
-      "§a",
-      "§7 +§d8§7 de§d Vitalité",
-      "§7 +§31§7 de§3 Défense",
-      "§7 +§26§7 d'§2Agilité",
-      "§7 +§b1§7 de§b Vitesse",
-      "§c -5 de Force",
-      "§c -5 d'Intelligence"
+      "Le bijou parfait pour les",
+      "tirs de longue distance !"
     ]
   },
   "magic_pendant": {
@@ -8435,14 +8195,8 @@
       "strength": -9
     },
     "description": [
-      "§8Cette amulette est faîte avec",
-      "§850 nez de sauvageon !",
-      "§a",
-      "§7 +§d12§7 de§d Vitalité",
-      "§7 +§32§7 de§3 Défense",
-      "§7 +§48§7 d'§4Intelligence",
-      "§7 +§22§7 d'§2Agilité",
-      "§c -9 de Force"
+      "Cette amulette est faîte avec",
+      "50 nez de sauvageon !"
     ]
   },
   "spell_scroll_fireball": {
@@ -8879,9 +8633,7 @@
       "armor_penetration": 105
     },
     "description": [
-      "§8La chose",
-      "§a",
-      "§7 +§1105§7 de§1 Pénétration d'armure"
+      "La chose"
     ],
     "damage": [
       60,
@@ -8911,10 +8663,8 @@
       "armor_penetration": 65
     },
     "description": [
-      "§8Cette épée appartenait à l'évêque",
-      "§8Manu de Valls !",
-      "§a",
-      "§7 +§165§7 de§1 Pénétration d'armure"
+      "Cette épée appartenait à l'évêque",
+      "Manu de Valls !"
     ],
     "damage": [
       65,
@@ -8966,9 +8716,8 @@
     "item": "iron_shovel",
     "type": "weapon",
     "description": [
-      "§8Cet épée vous permet d'enchainer",
-      "§8des combos impressionnants",
-      "§a"
+      "Cet épée vous permet d'enchainer",
+      "des combos impressionnants"
     ],
     "damage": [
       110,
@@ -9094,11 +8843,7 @@
       "armor_penetration": 100
     },
     "description": [
-      "§8Misérables vermines !",
-      "§7Ce bâton inflige des",
-      "§7dégâts de §cFeu",
-      "§a",
-      "§7 +§1100§7 de§1 Pénétration d'armure"
+      "Misérables vermines !"
     ],
     "damage": [
       90,
@@ -9112,8 +8857,7 @@
     "item": "stick",
     "type": "weapon",
     "description": [
-      "§8De l'amouuur eddy ! La fontaine d'amour",
-      "§a"
+      "De l'amouuur eddy ! La fontaine d'amour"
     ],
     "damage": [
       100,
@@ -9129,11 +8873,7 @@
       "armor_penetration": 80
     },
     "description": [
-      "§8La puissance extreme du Heavy Metal",
-      "§7Ce bâton inflige des",
-      "§7dégâts de §cFeu",
-      "§a",
-      "§7 +§180§7 de§1 Pénétration d'armure"
+      "La puissance extreme du Heavy Metal"
     ],
     "damage": [
       120,
@@ -9782,10 +9522,8 @@
       "armor_penetration": 50
     },
     "description": [
-      "§8Sculté et poli par les Rois",
-      "§8des plaines Dagde.",
-      "§a",
-      "§7 +§150§7 de§1 Pénétration d'armure"
+      "Sculté et poli par les Rois",
+      "des plaines Dagde."
     ],
     "damage": [
       12,
@@ -10171,15 +9909,8 @@
       "dodge": 7
     },
     "description": [
-      "§8Forgée par le dieu Omarsy",
-      "§8en personne !",
-      "§a",
-      "§7 +§d5§7 de§d Vitalité",
-      "§7 +§310§7 de§3 Défense",
-      "§7 +§e7§7 de§e Force",
-      "§7 +§47§7 d'§4Intelligence",
-      "§7 +§213§7 d'§2Agilité",
-      "§7 +§97§7 d'§9Esquive"
+      "Forgée par le dieu Omarsy",
+      "en personne !"
     ]
   },
   "horn_helmet": {
@@ -10246,13 +9977,7 @@
       "intelligence": -10
     },
     "description": [
-      "§8U no Nothing",
-      "§a",
-      "§7 +§d30§7 de§d Vitalité",
-      "§7 +§310§7 de§3 Défense",
-      "§7 +§e15§7 de§e Force",
-      "§7 +§218§7 d'§2Agilité",
-      "§c -10 d'Intelligence"
+      "U no Nothing"
     ]
   },
   "tyrion_helm": {
@@ -10321,13 +10046,7 @@
       "strength": -18
     },
     "description": [
-      "§8Completement Surgelée !",
-      "§a",
-      "§7 +§d33§7 de§d Vitalité",
-      "§7 +§425§7 d'§4Intelligence",
-      "§7 +§25§7 d'§2Agilité",
-      "§7 +§b3§7 de§b Vitesse",
-      "§c -18 de Force"
+      "Completement Surgelée !"
     ]
   },
   "mandarin_helmet": {
@@ -10530,15 +10249,7 @@
       "protection": -10
     },
     "description": [
-      "§8Importée des contrées du Phalempin",
-      "§a",
-      "§7 +§d40§7 de§d Vitalité",
-      "§7 +§e30§7 de§e Force",
-      "§7 +§430§7 d'§4Intelligence",
-      "§7 +§230§7 d'§2Agilité",
-      "§7 +§97§7 d'§9Esquive",
-      "§7 +§b6§7 de§b Vitesse",
-      "§c -10 de Défense"
+      "Importée des contrées du Phalempin"
     ]
   },
   "lightning_belt": {
@@ -10551,10 +10262,7 @@
       "speed": 10
     },
     "description": [
-      "§8Ancienne ceinture de Barry Allen",
-      "§a",
-      "§7 +§d18§7 de§d Vitalité",
-      "§7 +§b10§7 de§b Vitesse"
+      "Ancienne ceinture de Barry Allen"
     ]
   },
   "cave_belt": {
@@ -10766,13 +10474,7 @@
       "protection": -10
     },
     "description": [
-      "§8Billey mauve",
-      "§a",
-      "§7 +§d20§7 de§d Vitalité",
-      "§7 +§e5§7 de§e Force",
-      "§7 +§212§7 d'§2Agilité",
-      "§7 +§b5§7 de§b Vitesse",
-      "§c -10 de Défense"
+      "Billey mauve"
     ]
   },
   "the_necklass": {
@@ -10839,15 +10541,8 @@
       "strength": -20
     },
     "description": [
-      "§8Cette chaine brille d'une belle",
-      "§8lueur bleutée",
-      "§a",
-      "§7 +§235§7 d'§2Agilité",
-      "§7 +§910§7 d'§9Esquive",
-      "§7 +§b6§7 de§b Vitesse",
-      "§c -20 de Vitalité",
-      "§c -20 de Défense",
-      "§c -20 de Force"
+      "Cette chaine brille d'une belle",
+      "lueur bleutée"
     ]
   },
   "medallion_of_ankre": {
