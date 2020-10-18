@@ -34,14 +34,14 @@
     ]
   },
   "straw_hat": {
-    "name": "Chapeau d'Paille",
-    "level": 4,
+    "name": "Chapeau de Paille",
+    "level": 1,
     "item": "leather_helmet",
     "type": "equipment",
     "stats": {
-      "vitality": 1,
-      "protection": 2,
-      "strength": 4
+      "vitality": 2,
+      "strength": 1,
+      "intelligence": 1
     }
   },
   "decomposed_beast_skin": {
@@ -943,8 +943,8 @@
     "type": "item"
   },
   "gold_coin": {
-    "name": "Pièce d'or",
-    "item": "gold_nugget",
+    "name": "Pièce d'Or",
+    "item": "gold_ingot",
     "type": "money"
   },
   "improved_plate_armor": {
@@ -3614,7 +3614,7 @@
     }
   },
   "archery_krakring": {
-    "name": "Krakanneau d'archerie",
+    "name": "Krakanneau d'Archerie",
     "level": 25,
     "item": "glistering_melon_slice",
     "type": "equipment",
@@ -4030,13 +4030,14 @@
     }
   },
   "powerful_thude_boots": {
-    "name": "Surpuissante Bottes Thude",
-    "level": 14,
-    "item": "golden_boots",
+    "name": "Puissantes Bottes Thude",
+    "level": 10,
+    "item": "iron_boots",
     "type": "equipment",
     "stats": {
-      "vitality": 60,
-      "speed": 10
+      "vitality": 35,
+      "protection": 10,
+      "intelligence": -10
     }
   },
   "ankre_shoes": {
@@ -4065,6 +4066,16 @@
     "stats": {
       "vitality": 20,
       "agility": 60
+    }
+  },
+  "overpowered_thude_boots": {
+    "name": "Surpuissante Bottes Thude",
+    "level": 14,
+    "item": "golden_boots",
+    "type": "equipment",
+    "stats": {
+      "vitality": 60,
+      "speed": 10
     }
   },
   "large_feudala_boots": {
@@ -6282,6 +6293,18 @@
       "spirit": 15
     }
   },
+  "magic_krakring": {
+    "name": "Krakanneau de Magie",
+    "level": 25,
+    "item": "glistering_melon_slice",
+    "type": "equipment",
+    "stats": {
+      "vitality": 40,
+      "protection": 35,
+      "intelligence": 60,
+      "spirit": 20
+    }
+  },
   "unique_aranneau": {
     "name": "Aranneau Unique",
     "level": 30,
@@ -6424,6 +6447,17 @@
       288
     ],
     "critical": 0.1
+  },
+  "straw_hat_1": {
+    "name": "Chapeau d'Paille",
+    "level": 4,
+    "item": "leather_helmet",
+    "type": "equipment",
+    "stats": {
+      "vitality": 1,
+      "protection": 2,
+      "strength": 4
+    }
   },
   "peasant_stick": {
     "name": "Bâton paysan",
