@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Spawn",
+    "position": {
+      "x": 469,
+      "y": 164,
+      "z": 646
+    },
+    "teleport_to": {
+      "x": 469.5,
+      "y": 162,
+      "z": 646
+    }
+  },
+  {
+    "name": "Monastère",
+    "position": {
+      "x": 955,
+      "y": 83,
+      "z": 803
+    },
+    "teleport_to": {
+      "x": 955.5,
+      "y": 81,
+      "z": 803.5
+    }
+  },
+  {
+    "name": "Thebes",
+    "position": {
+      "x": 519,
+      "y": 149,
+      "z": 650
+    },
+    "teleport_to": {
+      "x": 519.5,
+      "y": 147,
+      "z": 650.5
+    }
+  },
+  {
+    "name": "Catacombes",
+    "position": {
+      "x": 405,
+      "y": 175,
+      "z": 625
+    },
+    "teleport_to": {
+      "x": 405.5,
+      "y": 173,
+      "z": 625.5
+    }
+  },
+  {
+    "name": "Gouffre",
+    "position": {
+      "x": 750,
+      "y": 108,
+      "z": 901
+    },
+    "teleport_to": {
+      "x": 750.5,
+      "y": 106,
+      "z": 901.5
+    }
+  },
+  {
+    "name": "Abysse",
+    "position": {
+      "x": 307,
+      "y": 243,
+      "z": 900
+    },
+    "teleport_to": {
+      "x": 307.5,
+      "y": 241,
+      "z": 900.5
+    }
+  },
+  {
+    "name": "Segeste",
+    "position": {
+      "x": 957,
+      "y": 39,
+      "z": 312
+    },
+    "teleport_to": {
+      "x": 957.5,
+      "y": 37,
+      "z": 312.5
+    }
+  },
+  {
+    "name": "Numen",
+    "position": {
+      "x": 220,
+      "y": 126,
+      "z": 455
+    },
+    "teleport_to": {
+      "x": 220.5,
+      "y": 124,
+      "z": 455.5
+    }
+  },
+  {
+    "name": "Profondeurs",
+    "position": {
+      "x": 178,
+      "y": 185,
+      "z": 926
+    },
+    "teleport_to": {
+      "x": 178.5,
+      "y": 183,
+      "z": 926.5
+    }
+  },
+  {
+    "name": "Caverne Légendaire",
+    "position": {
+      "x": 547,
+      "y": 20,
+      "z": 54
+    },
+    "teleport_to": {
+      "x": 547.5,
+      "y": 18.1,
+      "z": 54.5
+    }
+  }
+]
