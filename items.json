@@ -6553,10 +6553,12 @@
   },
   "apnea_potion": {
     "name": "Potion d'apnée",
+    "type": "potion",
     "item": "potion"
   },
   "nyctalopia_potion": {
     "name": "Potion de nyctalopie",
+    "type": "potion",
     "item": "potion"
   },
   "potion_of_the_islands": {
