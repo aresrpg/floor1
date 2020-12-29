@@ -6854,7 +6854,8 @@
   },
   "bank_location_1": {
     "name": "Emplacement de banque 1",
-    "item": "ink_sac"
+    "item": "pink_dye",
+    "type": "item"
   },
   "key_to_destiny": {
     "name": "Clé du Destin",
