@@ -10692,5 +10692,30 @@
       "dodge": 5,
       "speed": 5
     }
+  },
+  "teleportation_scroll": {
+    "name": "Parchemin de téléportation",
+    "item": "paper",
+    "type": "item"
+  },
+  "thick_ink": {
+    "name": "Encre épaisse",
+    "item": "hopper",
+    "type": "item"
+  },
+  "cannibal_steak": {
+    "name": "Steak de cannibale",
+    "item": "porkchop",
+    "type": "item"
+  },
+  "basic_vest": {
+    "name": "Gilet de base",
+    "item": "leather_chestplate",
+    "type": "item"
+  },
+  "slinger_projectile": {
+    "name": "Projectile de frondeur",
+    "item": "cocoa_beans",
+    "type": "item"
   }
 }
