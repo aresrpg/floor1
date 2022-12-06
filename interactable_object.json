@@ -1,0 +1,26 @@
+[
+    {
+        "type": 222,
+        "permit": "allow",
+        "location": {
+            "x": 459,
+            "y": 170,
+            "z": 663
+          }
+    },
+    {
+        "type": 161,
+        "permit": "deny",
+        "location": {
+            "x": 453,
+            "y": 167,
+            "z": 665
+          },
+        "custom_message": "``This door seem closed, you maybe need a key``"
+    },
+    {
+        "type": 222,
+        "location": "*",
+        "permit": "deny"
+    }
+]
