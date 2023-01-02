@@ -1,0 +1,15 @@
+[
+    {
+        "type": 222,
+        "position": "*"
+    },
+    {
+        "type": 161,
+        "position": {
+            "x": 453,
+            "y": 167,
+            "z": 665
+          },
+        "message": { "text": "This door seem closed, you maybe need a key", "italic": true }
+    }
+]
