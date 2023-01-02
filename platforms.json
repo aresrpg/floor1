@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Platform 0",
+        "size": [3, 3],
+        "position": {
+            "x": 463, 
+            "y": 165, 
+            "z": 649
+        }
+    },
+    {
+        "name": "Platform 1",
+        "size": [5, 5],
+        "position": {
+            "x": 433, 
+            "y": 203, 
+            "z": 649
+        }
+    }
+]
