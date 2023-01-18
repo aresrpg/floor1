@@ -14,6 +14,7 @@
   },
   {
     "name": "Monastère",
+    "music": "aresrpg.ambient.mirin",
     "position": {
       "x": 955,
       "y": 83,
@@ -27,6 +28,7 @@
   },
   {
     "name": "Thebes",
+    "music": "aresrpg.ambient.thebes",
     "position": {
       "x": 519,
       "y": 149,
